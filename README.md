@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Hello! I'm Mario Martínez - Computer Science Student 
 # 💫 About Me:
-🔭 I'm curretly work on IA proyects<br>💞️ I’m looking to collaborate on IA Proyects<br>👀 I’m interested in IA technology<br>🌱 I’m currently learning Python & Java<br>💬 You ask me about: C# and .NET
+🔭 I'm curretly work on IA proyects<br>🌱 I’m currently learning Java & Python<br>💞️ I’m looking to collaborate on IA Proyects<br>💬 You ask me about: C# and .NET<br>👀 I’m interested in IA technology<br>
 
 
 ## 🌐 Socials:
