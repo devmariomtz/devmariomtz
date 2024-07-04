@@ -2,6 +2,7 @@
 # 💫 About Me:
 🔭 I'm curretly work on IA proyects<br>🌱 I’m currently learning Java & Python<br>💞️ I’m looking to collaborate on IA Proyects<br>💬 You ask me about: C# and .NET<br>👀 I’m interested in IA technology<br>
 
+[![committers.top badge](https://user-badge.committers.top/el_salvador/devmariomtz.svg)](https://user-badge.committers.top/el_salvador/devmariomtz)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mario-martinez) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MartinezMario__) 
