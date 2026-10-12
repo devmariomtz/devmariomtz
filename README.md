@@ -1,8 +1,11 @@
 # 👨🏻‍💻 Hello! I'm Mario Martínez - Computer Science Student 
 # 💫 About Me:
-🔭 I'm curretly work on IA proyects<br>🌱 I’m currently learning Java & Python<br>💞️ I’m looking to collaborate on IA Proyects<br>💬 You ask me about: C# and .NET<br>👀 I’m interested in IA technology<br>
+I am a Software Engineer and DevSecOps Specialist with over 4 years of experience building scalable web architectures and implementing automated application security across the software development lifecycle (SDLC). My background bridges full-stack engineering with modern DevSecOps practices, helping cross-functional teams shift security left without slowing down delivery velocity.
 
-[![committers.top badge](https://user-badge.committers.top/el_salvador/devmariomtz.svg)](https://user-badge.committers.top/el_salvador/devmariomtz)
+Currently serving as a DevSecOps Engineer at Devel Group, I conduct end-to-end SAST and DAST assessments across web, mobile, and infrastructure layers utilizing enterprise tools such as Fortify SCA, Burp Suite, OWASP ZAP, and Trivy. I specialize in automating vulnerability scanning, running Infrastructure as Code (IaC) security reviews, and embedding automated security gates directly into Azure DevOps CI/CD pipelines using Python and PowerShell scripts.
+
+Prior to focusing on AppSec, I developed, optimized, and deployed full-stack systems at Trez Labs and Producciones Roma. My engineering foundation spans RESTful API design, database architecture, and microservices across diverse stacks, including Node.js, React, Python (Django/Flask), PHP (Laravel), Java (Spring Boot), and C# (.NET). This developer background gives me an authentic understanding of code maintainability, debugging, and secure coding standards.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mario-martinez) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MartinezMario__) 
